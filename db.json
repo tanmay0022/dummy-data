@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "skills": ["React JS", "Node.js", "MongoDB"],
+    "experience": "2 years"
+  },
+  {
+    "id": 2,
+    "name": "Isha Gupta",
+    "skills": ["Python", "Django", "Machine Learning"],
+    "experience": "3 years"
+  },
+  {
+    "id": 3,
+    "name": "Kabir Mehta",
+    "skills": ["Java", "Spring Boot", "Microservices"],
+    "experience": "5 years"
+  },
+  {
+    "id": 4,
+    "name": "Riya Sen",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "experience": "1 year"
+  },
+  {
+    "id": 5,
+    "name": "Arjun Das",
+    "skills": ["Flutter", "Dart", "Firebase"],
+    "experience": "2 years"
+  },
+  {
+    "id": 6,
+    "name": "Meera Nair",
+    "skills": ["C#", ".NET", "Azure"],
+    "experience": "4 years"
+  },
+  {
+    "id": 7,
+    "name": "Vikram Rao",
+    "skills": ["Kotlin", "Android Development", "SQL"],
+    "experience": "3 years"
+  },
+  {
+    "id": 8,
+    "name": "Neha Kulkarni",
+    "skills": ["PHP", "Laravel", "MySQL"],
+    "experience": "2 years"
+  },
+  {
+    "id": 9,
+    "name": "Siddharth Jain",
+    "skills": ["Ruby", "Ruby on Rails", "PostgreSQL"],
+    "experience": "5 years"
+  },
+  {
+    "id": 10,
+    "name": "Ananya Bhatt",
+    "skills": ["React Native", "TypeScript", "Redux"],
+    "experience": "3 years"
+  }
+]
